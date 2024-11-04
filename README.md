@@ -70,20 +70,6 @@
 </table>
 </br>
 
-<h3> Bigdata </h3>
-<table width="100">
-<tr>
-    <td align='center' width="250">
-        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/clickhouse.png" width="250" >
-    </td>
-    <td align='center' width="250">
-        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/bigquery.png" width="250" >
-    </td>
-</tr>
-</table>
-
-</br>
-
 <h3> Database </h3>
 <table width="100">
 <tr>
