@@ -160,17 +160,6 @@
 </table>
 </br>
 
-<h2><i>💻 Packages I Created</i></h2>
-<h3> Query Maker </h3>
-<table width="100">
-<tr>
-    <td align='center' width="250">
-        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/querymaker.png" width="250" >
-    </td>
-</tr>
-</table>
-</br>
-
 <h2><i>💻 Projects I Worked On</i></h2>
 
 <body lang=EN-US style='tab-interval:.5in'>
