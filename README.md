@@ -28,6 +28,9 @@
     <td align='center' width="250">
         <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/tailwind.svg"width="250" >
     </td>
+        <td align='center' width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/mui.png "width="250" >
+    </td>
     <td align='center' width="250">
         <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/ngzorro.svg" width="250">
     </td>
