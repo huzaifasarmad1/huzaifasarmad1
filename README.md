@@ -9,27 +9,27 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/angular.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/angular.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/react.png"width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/react.png"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/javascript.png" width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/javascript.png" width="250">
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/html.png" width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/html.png" width="250">
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/css.svg" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/css.svg" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/tailwind.svg"width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/tailwind.svg"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/ngzorro.svg" width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/ngzorro.svg" width="250">
     </td>
 </tr>
 </table>
@@ -39,16 +39,16 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nodejs.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/nodejs.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/python.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/python.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/golang.png" width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/golang.png" width="250">
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/php.svg" width="250">
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/php.svg" width="250">
     </td>
 </tr>
 </table>
@@ -58,10 +58,10 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/ionic.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/ionic.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/react-native.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/react-native.png" width="250" >
     </td>
 </tr>
 </table>
@@ -71,10 +71,10 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/clickhouse.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/clickhouse.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/bigquery.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/bigquery.png" width="250" >
     </td>
 </tr>
 </table>
@@ -85,21 +85,21 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/postgresql.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/postgresql.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/mongodb.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/mongodb.png" width="250" >
     </td>
       <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/mysql.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/mysql.png" width="250" >
     </td>
         <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/firebase.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/firebase.png" width="250" >
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/redis.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/redis.png" width="250" >
     </td>
 </tr>
 </table>
@@ -110,21 +110,21 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/expressjs.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/expressjs.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nestjs.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/nestjs.png" width="250" >
     </td>
       <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/flask.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/flask.png" width="250" >
     </td>
         <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/nextjs.svg" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/nextjs.svg" width="250" >
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/codeigniter.svg" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/codeigniter.svg" width="250" >
     </td>
 </tr>
 </table>
@@ -135,10 +135,10 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/aws.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/aws.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/gcp.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/gcp.png" width="250" >
     </td>
 </tr>
 </table>
@@ -149,13 +149,13 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/jenkins.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/jenkins.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/docker.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/docker.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/kubernetes.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/kubernetes.png" width="250" >
     </td>
 </tr>
 </table>
@@ -165,7 +165,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/wordpress.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/wordpress.png" width="250" >
     </td>
 </tr>
 </table>
@@ -176,7 +176,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/zunnurainbadar/zunnurainbadar/blob/main/images/querymaker.png" width="250" >
+        <img src="https://github.com/huzaifasarmad1/huzaifasarmad1/blob/main/images/querymaker.png" width="250" >
     </td>
 </tr>
 </table>
@@ -505,5 +505,5 @@
 
 </body>
 
-[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=zunnurainbadar&theme=gotham&show_icons=true&count_private=true)](https://github.com/zunnurainbadar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunnurainbadar&theme=gotham&show_icons=true&layout=compact)](https://github.com/zunnurainbadar)
+[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=huzaifasarmad1&theme=gotham&show_icons=true&count_private=true)](https://github.com/huzaifasarmad1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasarmad1&theme=gotham&show_icons=true&layout=compact)](https://github.com/huzaifasarmad1)
