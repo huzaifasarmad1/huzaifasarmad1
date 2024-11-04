@@ -1,4 +1,4 @@
-# Hi there, I'm Zunnurain Badar
+# Hi there, I'm Huzaifa Sarmad
 
 ### I'm a Software Engineer | Big Data Developer | Full Stack Developer
 - 🔭 I’m currently working as a Senior Software Engineer
