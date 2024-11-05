@@ -204,7 +204,7 @@
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=SpellE><span
-  style='font-family:Dosis'>Agent Market</span></span><span style='font-family:Dosis'><o:p></o:p></span></p>
+  style='font-family:Dosis'>Dialeats</span></span><span style='font-family:Dosis'><o:p></o:p></span></p>
   </td>
   <td width=196 valign=top style='width:147.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -238,7 +238,7 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://agentmarket.com.au<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>https://dialeats.co.zw<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
