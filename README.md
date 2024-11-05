@@ -211,9 +211,9 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>Dial Eats is a food delivery service operating in Zimbabwe. The platform allows customers to order meals from various local restaurants and have them delivered directly to their doorstep.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Dial Eats is a food delivery service in Zimbabwe. Customers can order meals from local restaurants and get them delivered right to their door.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>Dial Eats aims to connect consumers with a wide range of culinary options, making it convenient for people to enjoy their favorite foods without leaving home. <o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>The platform helps people easily enjoy their favorite foods at home, offering a variety of dining options. <o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -248,9 +248,9 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>AgentMarket is an online real estate marketplace connecting property buyers and sellers with licensed real estate agents across Australia.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>AgentMarket is an online real estate site in Australia. It lets people find homes, compare listings, and connect with local agents for buying, selling, or renting.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>The platform provides a user-friendly interface for individuals to browse properties, compare listings, and connect with local agents who can assist with buying, selling, or renting properties.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>The platform aims to make property transactions easier by bringing buyers, sellers, and agents together in one place.<o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -286,11 +286,11 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is an Australian-based company specializing in vehicle parts and accessories.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is a pioneering mobile application, designed to facilitate the swapping of goods and services among users.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=GramE><span
   style='font-family:Dosis'></span></span><span style='font-family:Dosis'>
-The company offers a wide range of products for both domestic and commercial vehicles, including car parts, truck components, and equipment for various applications.<o:p></o:p></span></p>
+It offers a platform where individuals can exchange a wide range of items and services, from gardening tools to beauty treatments.<o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
