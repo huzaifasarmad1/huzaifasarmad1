@@ -1,8 +1,8 @@
 # Hi there, I'm Huzaifa Sarmad
 
-### I'm a Software Engineer | Big Data Developer | Full Stack Developer
+### I'm a Software Developer | Mobile App Developer | Full Stack Developer
 - 🔭 I’m currently working as a Senior Software Engineer
-- 🌱 I’m currently learning Go, Kubernetes, Kafka, and Dnsdist.
+- 🌱 I’m currently learning Go, Ruby, Scala, and Kotlin.
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>
