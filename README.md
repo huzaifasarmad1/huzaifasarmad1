@@ -289,7 +289,7 @@
   text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is an Australian-based company specializing in vehicle parts and accessories.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=GramE><span
-  style='font-family:Dosis'>tenants</span></span><span style='font-family:Dosis'>
+  style='font-family:Dosis'></span></span><span style='font-family:Dosis'>
 The company offers a wide range of products for both domestic and commercial vehicles, including car parts, truck components, and equipment for various applications.<o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
