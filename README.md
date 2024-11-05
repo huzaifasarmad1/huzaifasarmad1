@@ -211,15 +211,13 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>A
-  platform for the Real Estate Marketplace that provides complete solution from<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is a pioneering mobile application, designed to facilitate the swapping of goods and services among users.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>advertising
-  a property to accepting the offer allowing both buyers and sellers to<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>It offers a platform where individuals can exchange a wide range of items and services, from gardening tools to beauty treatments. <o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=GramE><span
   style='font-family:Dosis'>easily</span></span><span style='font-family:Dosis'>
-  execute a transaction on their own with digital paperwork.<o:p></o:p></span></p>
+ The app facilitates local and national searches, allowing users to find exactly what they need or offer their services to others. SwapCo helps reduce waste and promotes a circular economy. <o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
