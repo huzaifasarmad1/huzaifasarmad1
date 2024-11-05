@@ -211,13 +211,9 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is a pioneering mobile application, designed to facilitate the swapping of goods and services among users.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Dial Eats is a food delivery service operating in Zimbabwe. The platform allows customers to order meals from various local restaurants and have them delivered directly to their doorstep.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>It offers a platform where individuals can exchange a wide range of items and services, from gardening tools to beauty treatments. <o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span class=GramE><span
-  style='font-family:Dosis'>easily</span></span><span style='font-family:Dosis'>
- The app facilitates local and national searches, allowing users to find exactly what they need or offer their services to others. SwapCo helps reduce waste and promotes a circular economy. <o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>Dial Eats aims to connect consumers with a wide range of culinary options, making it convenient for people to enjoy their favorite foods without leaving home. <o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -252,15 +248,9 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>A
-  platform for the Real Estate Marketplace that provides complete solution from<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>AgentMarket is an online real estate marketplace connecting property buyers and sellers with licensed real estate agents across Australia.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>advertising
-  a property to accepting the offer allowing both buyers and sellers to<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span class=GramE><span
-  style='font-family:Dosis'>easily</span></span><span style='font-family:Dosis'>
-  execute a transaction on their own with digital paperwork.<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>The platform provides a user-friendly interface for individuals to browse properties, compare listings, and connect with local agents who can assist with buying, selling, or renting properties.<o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -296,13 +286,11 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span style='font-family:Dosis'>A
-  Multi-tenant application for managing and tracking Real-time sand jobs, loads
-  and<o:p></o:p></span></p>
+  text-align:center;line-height:normal'><span style='font-family:Dosis'>SwapCo is an Australian-based company specializing in vehicle parts and accessories.<o:p></o:p></span></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=GramE><span
   style='font-family:Dosis'>tenants</span></span><span style='font-family:Dosis'>
-  involved in the process.<o:p></o:p></span></p>
+The company offers a wide range of products for both domestic and commercial vehicles, including car parts, truck components, and equipment for various applications.<o:p></o:p></span></p>
   </td>
   <td width=170 valign=top style='width:127.15pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
