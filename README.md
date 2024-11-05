@@ -257,9 +257,9 @@
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Leading the Web/Mobile Team.<o:p></o:p></span></p>
+  normal'><span style='font-family:Dosis'>Working in backend team to write server code<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Writing Frontend and backend code <o:p></o:p></span></p>
+  normal'><span style='font-family:Dosis'>Implementing RESTful APIs for frontend integration <o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-family:Dosis'>Managing the deployments on <span
   class=SpellE>aws</span>.<o:p></o:p></span></p>
@@ -297,15 +297,11 @@ It offers a platform where individuals can exchange a wide range of items and se
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Working in backend team to write
-  server code<o:p></o:p></span></p>
+  normal'><span style='font-family:Dosis'>Writing Frontend and backend code<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Handle the cloud functions on GCP<o:p></o:p></span></p>
+  normal'><span style='font-family:Dosis'>Collaborating on UI/UX design to ensure responsive and user-friendly interfaces<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Writing complex SQL queries<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:Dosis'>Managing the database with almost
-  more than 100 tables<o:p></o:p></span></p>
+  normal'><span style='font-family:Dosis'>Integrating backend services with frontend<o:p></o:p></span></p>
   </td>
   <td width=162 valign=top style='width:121.25pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -323,5 +319,5 @@ It offers a platform where individuals can exchange a wide range of items and se
 
 </body>
 
-[![Zunnurain's github stats](https://github-readme-stats.vercel.app/api?username=huzaifasarmad1&theme=gotham&show_icons=true&count_private=true)](https://github.com/huzaifasarmad1)
+[![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=huzaifasarmad1&theme=gotham&show_icons=true&count_private=true)](https://github.com/huzaifasarmad1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifasarmad1&theme=gotham&show_icons=true&layout=compact)](https://github.com/huzaifasarmad1)
