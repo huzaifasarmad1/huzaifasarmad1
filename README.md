@@ -1,6 +1,6 @@
 # Hi there, I'm Huzaifa Sarmad
 
-### I'm a Software Developer | Founder Codeswave | Full Stack Developer
+### I'm a Software Developer | Founder | Full Stack Developer
 - 🔭 I’m currently working as a Senior Software Engineer
 - 🌱 I’m currently learning Go, Ruby, Scala, and Kotlin.
 
